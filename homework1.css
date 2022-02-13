@@ -4,6 +4,14 @@
     Homework 1 (2/18/22)
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+
+
 p{
     background-color: aquamarine;
 }
