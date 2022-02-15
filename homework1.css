@@ -10,9 +10,17 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
 
 #pink-div {
     background-color: hotpink;
+    text-align: center;
 }
 
 p{
