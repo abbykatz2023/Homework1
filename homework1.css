@@ -10,12 +10,20 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+
 #pink-div {
-    background-color: pink;
+    background-color: hotpink;
 }
 
 p{
     background-color: aquamarine;
+    text-align:center
+}
+
+img{
+    width:100%;
+    height:100%;
+    border: dotted;
 }
 
 iframe {
