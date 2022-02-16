@@ -73,6 +73,14 @@ iframe {
     text-align: center;
 }
 
+#surprise {
+    background-color: mistyrose;
+}
+
+#return {
+    background-color: mistyrose;
+}
+
 /*  
     Style individual list items.
 */
